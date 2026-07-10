@@ -8,7 +8,13 @@ export const siteConfig = {
   },
   aboutMe:
     "I'm an informatics engineering student at UIN Sunan Gunung Djati Bandung with an interest in software development. I enjoy building things across the stack and have a passion for chess.",
-  skills: ["Frontend", "Backend", "Chess"],
+  skills: ["Frontend", "Backend"],
+  keahlian: [
+    "Administrasi Linux",
+    "Konfigurasi Jaringan Dasar",
+    "Web Server (Apache2)",
+    "Virtualisasi (VirtualBox)",
+  ],
   projects: [],
   experience: [],
   education: [],
